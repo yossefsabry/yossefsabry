@@ -13,7 +13,7 @@ Aside from coding, I have a love for chess ♟️ and swimming 🏊‍♀️. Th
 
 ---
 
-<img src="https://frogonline.com.au/wp-content/uploads/2019/08/giphy.gif" alt="Animation">
+<img src="https://frogonline.com.au/wp-content/uploads/2019/08/giphy.gif" width="100%" align="center" alt="Animation">
 
 
 ---
