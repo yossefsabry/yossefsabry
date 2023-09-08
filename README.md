@@ -13,6 +13,10 @@ Aside from coding, I have a love for chess ♟️ and swimming 🏊‍♀️. Th
 
 ---
 
+<img src="https://media.tenor.com/tzFw_oW3F8wAAAAC/typing-fast.gif" alt="gifs"/>
+
+
+---
 ### Email: 
 ```
 yossefabry66@gmail.com
