@@ -17,6 +17,7 @@ Aside from coding, I have a love for chess ♟️ and swimming 🏊‍♀️. Th
 <img src="https://frogonline.com.au/wp-content/uploads/2019/08/giphy.gif"  alt="Animation">
   
 </div>
+
 ---
 ### Email: 
 ```
