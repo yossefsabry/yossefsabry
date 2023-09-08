@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h4> "Hello! 👋 I'm a motivated and enthusiastic Python 🐍 and Frontend Developer 🌐. I have a strong passion for software development and a keen eye 👁️ for creating intuitive and visually appealing user interfaces. With experience in both backend and frontend development, I enjoy working on full-stack projects that challenge me to use my skills in various technologies.
+<h4> Hello! 👋 I'm a motivated and enthusiastic Python 🐍 and Frontend Developer 🌐. I have a strong passion for software development and a keen eye 👁️ for creating intuitive and visually appealing user interfaces. With experience in both backend and frontend development, I enjoy working on full-stack projects that challenge me to use my skills in various technologies.
 
 In my journey as a developer, I have honed my Python programming skills for building robust and scalable web applications. I am well-versed in popular frameworks like Django and Flask, which enable me to develop efficient backend solutions. Additionally, I have a good understanding of database management systems like SQL and ORM frameworks like SQLAlchemy.
 
