@@ -21,5 +21,5 @@ Aside from coding, I have a love for chess ♟️ and swimming 🏊‍♀️. Th
 ---
 ### Email: 
 ```
-yossefabry66@gmail.com
+yossefsabry66@gmail.com
 ```
