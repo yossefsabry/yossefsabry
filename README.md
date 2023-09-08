@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm python developer and frontend developer .
+** i'm python developer and frontend developer . **
 
 
 # 💻 Tech Stack:
