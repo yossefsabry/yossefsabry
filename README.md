@@ -1,6 +1,5 @@
 
- I'm a motivated and enthusiastic Python 🐍 and Frontend Developer 🌐. I have a strong passion for software development and a keen eye 👁️ for creating intuitive and visually appealing user interfaces. With experience in both backend and frontend development, I enjoy working on full-stack projects that challenge me to use my skills in various technologies.
-
+I am a motivated and enthusiastic developer specializing in Python programming 🐍 and Frontend web development 🌐. I have a strong passion for creating user-friendly and visually appealing interfaces. I have experience in both the technical aspects (backend) and the visual aspects (frontend) of software development. I particularly enjoy working on projects that require a combination of these skills.
 <div  align="center">
 
 <img src="https://frogonline.com.au/wp-content/uploads/2019/08/giphy.gif"  alt="Animation">
