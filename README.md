@@ -12,10 +12,6 @@
 
 - I have an interest in AI (machine learning).
 
-
----
-[![](https://visitcount.itsvg.in/api?id=yossef&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 ### Email: 
 ```
