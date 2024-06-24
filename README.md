@@ -6,10 +6,6 @@
   
 </div>
 
-
-### 💻 Tech Stack:
-
-
 - I Have An Interest In AI.
 - Learning Machine Learning.
 
